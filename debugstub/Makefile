@@ -36,7 +36,7 @@ CXXFLAGS	:=	$(CFLAGS)
 
 ASFLAGS	:=	-g $(ARCH)
 
-export ARM9BIN	:=	$(TOPDIR)/../lib/libdebugtcp9.a
+export ARM9BIN	:=	$(TOPDIR)/../lib/libdebugstub9.a
 
 
 #---------------------------------------------------------------------------------
