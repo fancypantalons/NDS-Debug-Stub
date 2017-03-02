@@ -10,7 +10,7 @@ Building
 ========
 
 This is now a "normal" devkitARM project, so as long as your environment is
-properly configured, a simple 'make' should suffice.
+properly configured, a simple 'make lib' then 'make' should suffice.
 
 Using
 =====
